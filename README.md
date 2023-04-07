@@ -1,6 +1,9 @@
 # python_resource
 
 - [awesome-python](https://github.com/vinta/awesome-python)
+- [Introduction to Data Analytics](Rathachai Chawuthai)](https://sites.google.com/kmitl.ac.th/intro-to-da/?pli=1)
+- [FastAPI ที่สมบูรณ์แบบที่สุดที่เคยมีมา](https://www.facebook.com/stackpython/posts/pfbid0K9RaqVDmYJwmitwBJVjpADAPy1erFkWacdgYmNrgFxYEW46VFuis8Nq6Q6rrphvMl)
+- 
 
 ### ช่อง Youtube
 - [Patrick Loeber](https://www.youtube.com/c/PythonEngineer)
@@ -8,7 +11,8 @@
 - [EuroPython 2021](https://www.youtube.com/playlist?list=PL8uoeex94UhFuRtXhkqOrROsdNI6ejuiq)
 - [6.0001 Introduction to Computer Science and Programming](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
 
-
+### Udemy
+- [
 
 ### Way to automated with Python
 - [Automate with Python – Full Course for Beginners - FreeCodeCamp](https://www.youtube.com/watch?v=PXMJ6FS7llk)

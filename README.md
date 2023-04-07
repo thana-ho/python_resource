@@ -12,7 +12,11 @@
 - [6.0001 Introduction to Computer Science and Programming](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
 
 ### Udemy
-- [
+- [python-deepdive GitHub](https://github.com/fbaptiste/python-deepdive)
+- [Deep Drive 1](https://www.udemy.com/course/python-3-deep-dive-part-1/learn/lecture/7065310?start=0#overview)
+- [Deep Drive 2](https://www.udemy.com/course/python-3-deep-dive-part-2/learn/lecture/10059290#overview)
+- [Deep Drive 3](https://www.udemy.com/course/python-3-deep-dive-part-3/learn/lecture/11601094#overview)
+- [Deep Drive 4](https://www.udemy.com/course/python-3-deep-dive-part-4/)
 
 ### Way to automated with Python
 - [Automate with Python – Full Course for Beginners - FreeCodeCamp](https://www.youtube.com/watch?v=PXMJ6FS7llk)

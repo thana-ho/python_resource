@@ -3,6 +3,8 @@
 - [awesome-python](https://github.com/vinta/awesome-python)
 - [Introduction to Data Analytics](Rathachai Chawuthai)](https://sites.google.com/kmitl.ac.th/intro-to-da/?pli=1)
 - [FastAPI ที่สมบูรณ์แบบที่สุดที่เคยมีมา](https://www.facebook.com/stackpython/posts/pfbid0K9RaqVDmYJwmitwBJVjpADAPy1erFkWacdgYmNrgFxYEW46VFuis8Nq6Q6rrphvMl)
+- [Skillane OOP](https://www.skilllane.com/courses/class-and-object-in-java)
+- [เข้าใจ OOP ง่ายๆ ด้วยภาษา Java](https://www.skilllane.com/courses/oop-with-java)
 - 
 
 ### ช่อง Youtube

@@ -1,5 +1,7 @@
 # python_resource
 
+- [awesome-python](https://github.com/vinta/awesome-python)
+
 ### ช่อง Youtube
 - [Patrick Loeber](https://www.youtube.com/c/PythonEngineer)
 - [Corey Schafer](https://www.youtube.com/c/Coreyms)
@@ -30,6 +32,7 @@
 
 ### Exercise 
 - [Python List Comprehension Practice Exercises and Problems](https://www.tutorialsandyou.com/python/python-list-comprehension-practice-exercises-and-problems-101.html)
+- [Sample Questions for Examination 1](https://w3.cs.jmu.edu/bernstdh/Web/CS345/study-aids/exam1-sample.php)
 
 ### ตัวอย่าง
 - [ตัวอย่างการเขียนสามเหลี่ยมแบบต่างๆ](https://www.facebook.com/photo/?fbid=398679350752825&set=pcb.398680174086076)
@@ -38,4 +41,6 @@
 - [10 ช่อง YouTube ที่ดีที่สุดสำหรับเรียน Python ในปี 2022](https://stackpython.co/programming-news/10-youtube-python-2022)
 - [Numpy Basics by INVESTIC](https://colab.research.google.com/drive/14__5bI4VGWGZmBA_OlW9ryM6YUTLGGB4?usp=sharing)
 - [Cheatsheet วิธีใช้ และเทคนิคใน Pandas (Python) ฉบับสมบูรณ์](https://blog.datath.com/cheatsheet-pandas/)
+- [Homework 4: Python Practice](https://hackmd.io/@csci0200/rJYSCKu79_
+
 
